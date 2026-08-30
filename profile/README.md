@@ -1,4 +1,4 @@
-# 🚀 Inaris-Project
+# 🚀 Inaris
 
 ![Inaris](https://raw.githubusercontent.com/Inaris-Project/final_project/main/screenshots/sub.png)
 
