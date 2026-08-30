@@ -2,7 +2,7 @@
 
 ![Inaris](https://raw.githubusercontent.com/Inaris-Project/final_project/main/screenshots/sub.png)
 
-### Projet de fin d'études — Bac Pro Cybersécurité, Informatique et réseaux, Électronique
+### Projet — Bac Pro Cybersécurité, Informatique et réseaux, Électronique
 
 **Inaris** était une plateforme de recherche de stages géolocalisée en temps réel.
 
